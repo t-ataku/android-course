@@ -1,3 +1,6 @@
+# Sub repository
+*.repo
+
 # Compiled class file
 *.class
 

@@ -10,4 +10,5 @@ I hope you can learn basic concept or understanding of developing it.
 
 ## Course Agenda
 
-- 
+- Goal of this course and application to be created in course end
+* Preparing the environment

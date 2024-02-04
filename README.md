@@ -10,6 +10,8 @@ I hope you can learn basic concept or understanding of developing it.
 
 ## Course Agenda
 
-1. Goal of this course and application to be created in course end
+1. Goal of this course
+ 1. x
+ 1. Application image after completion
 1. Preparing the environment
 
